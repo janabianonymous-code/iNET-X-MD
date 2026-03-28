@@ -1,0 +1,19 @@
+iNET-X-MD-V2/
+│
+├── index.cjs
+├── inet.js
+├── config.js
+├── package.json
+├── heroku.yml
+├── koyeb.yaml
+│
+├── lib/
+│   ├── command.js
+│   ├── loader.js
+│
+└── commands/
+    ├── general.js
+    ├── ai.js
+    ├── downloader.js
+    ├── group.js
+    ├── tools.js
